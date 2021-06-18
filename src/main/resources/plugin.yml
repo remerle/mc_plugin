@@ -1,0 +1,12 @@
+name: TestPlugin
+version: ${project.version}
+main: net.sickmoves.testplugin.TestPlugin
+api-version: 1.17
+prefix: sickmoves.net
+load: STARTUP
+authors: [ sickmoves ]
+description: Test Plugin
+commands:
+  lava-feet:
+    description: Toggles "lava feet" on or off
+    usage: /lava-feet [player]
