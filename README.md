@@ -10,3 +10,10 @@ Tested on Spigot 1.17.
 |Command|Functionality|
 |---|---|
 |/lava&#8209;feet&nbsp;[player]|Toggles "lava feet" on and off. Optionally provide a player name to apply the effect to another player (of omitted, it will apply to the issuing player)<br/><br/>_The "lava feet" effect causes blocks under the player to turn to lava after the player steps off of them. The blocks will return to their original material after a period of time_|
+
+
+# Development
+### Prerequisites
+
+- Java 16 (requried for Minecraft 1.17)
+- Maven
